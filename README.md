@@ -1,4 +1,4 @@
-# PRODIGY_DS_TASK3
+# DECISION TREE CLASSIFIER
 This repository contains code and insights from a project focused on building a predictive model for term deposit subscriptions in a banking context. The goal is to assist a Portuguese banking institution in tailoring its marketing efforts effectively.
 # Dataset
 The dataset used for this project is sourced from the UCI Machine Learning Repository and is related to direct marketing campaigns of a Portuguese banking institution. It includes demographic and behavioral data, such as age, occupation, education level, and more.
